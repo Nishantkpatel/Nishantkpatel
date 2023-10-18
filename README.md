@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishant Kumar Prasad</h1>
 <h3 align="center">A passionate frontend developer from Bharat.</h3>
 
-<img src="./ns.gif "/>
+<img src="./ns.gif " width=400px />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantkpatel&label=Profile%20views&color=0e75b6&style=flat" alt="nishantkpatel" /> </p>
 
