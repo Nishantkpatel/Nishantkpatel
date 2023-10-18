@@ -1,4 +1,5 @@
-! [logo] (nkp.pig)
+<img src="./nkp.png " align="right" alt="coding"/>
+
 <h1 align="center">Hi 👋, I'm Nishant Kumar Prasad</h1>
 <h3 align="center">A passionate frontend developer from Bharat.</h3>
 
