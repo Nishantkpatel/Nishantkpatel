@@ -1,7 +1,7 @@
 <img src="./nkp.png " align="right" alt="coding"/>
 
 <h1 align="center">Hi 👋, I'm Nishant Kumar Prasad</h1>
-<h3 align="center">A passionate frontend developer from Bharat.</h3>
+<h3 align="center">A passionate Software tester from Bharat.</h3>
 
 <img src="./ns.gif " align="right" alt="coding" width=400px/>
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://calm-brigadeiros-9c7e44.netlify.app/](https://calm-brigadeiros-9c7e44.netlify.app/)
 
-- 📫 How to reach me **avengenishant@gmail.com**
+- 📫 How to reach me **nk76676341@gmail.com**
 
 - ⚡ Fun fact **I am funny😎**
 
